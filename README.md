@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uthayan45" alt="uthayan45" /></a> </p>
 
-- 🔭 I’m currently working on **DETECTION AND TRACKING OF DRUG TRAFFICKING OF ENCRYPTED ON SOCIAL MEDIA PLATFORMS**
+- 🔭 I’m currently working on **Detection and tracking of drug trafficking of encrypted on social media platforms**
 
 - 🌱 I’m currently learning **JavaScript,mongoDB**
 
